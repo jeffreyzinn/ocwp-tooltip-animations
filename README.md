@@ -1,6 +1,6 @@
 # OCWP Tooltip Animations Plugin
 
-This is a WordPress plugin to incorporate Tooltips Animations from codrops.com into a WordPress website. It was developed for the [Orange County WordPress Developer Meetup](https://www.meetup.com/OC-Wordpress-Group/) for August of 2017. The original question was "How can a developer incorporate generic code libraries into a WordPress site?" This example comes from come from [codrops](https://tympanus.net/codrops/). It is the [Playful Little Tooltip Ideas](https://tympanus.net/codrops/2017/05/31/playful-little-tooltip-ideas/) source material. 
+This is a WordPress plugin to incorporate Tooltips Animations from codrops.com into a WordPress website. It was developed for the [Orange County WordPress Developer Meetup](https://www.meetup.com/OC-Wordpress-Group/) for August of 2017. The original question was "How can a developer incorporate generic code libraries into a WordPress site?" This example comes from [codrops](https://tympanus.net/codrops/). It is the [Playful Little Tooltip Ideas](https://tympanus.net/codrops/2017/05/31/playful-little-tooltip-ideas/) source material. 
 
 Though incorporating a generic code library may have variations to this process, here are the basic steps to follow to incorporate the code base into your site:
 
