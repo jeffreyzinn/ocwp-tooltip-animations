@@ -16,7 +16,7 @@ Though incorporating a generic code library may have variations to this process,
 
 1. **Clean up files.** Delete anything no longer necessary and keep a clean directory. Combine Javascript files. Consolidate CSS files. Streamline where possible.
 
-## Using the toolstip shortcode
+## Using the tooltip shortcode
 
 `[tta-tooltip style="{style}" trigger="{text to trigger tooltip}" tooltip="{tooltip message}"]`
 
